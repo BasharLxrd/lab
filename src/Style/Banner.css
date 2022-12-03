@@ -1,0 +1,13 @@
+.slide-container {
+    direction: ltr;
+    width: 100%;
+    margin: auto;
+}
+
+.each-slide>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+}
